@@ -1,3 +1,3 @@
 # Hangman Game
 
-really simple game, but i didn't implement a good word bank, literally the only word is "hamburger"...
+really simple game, only module required is random and you can just copy/paste the code because I have no clue how to use Github.

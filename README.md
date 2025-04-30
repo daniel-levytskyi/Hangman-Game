@@ -1,0 +1,3 @@
+# Hangman Game
+
+really simple game, but i didn't implement a good word bank, literally the only word is "hamburger"...
